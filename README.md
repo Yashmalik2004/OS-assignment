@@ -148,6 +148,94 @@ python3 system_startup.py
 
 - Sub-Task 4: Ensure proper termination and logging
 
+
+## ASSIGNMENT 3:
+
+```bash
+cd C:\Users\YASH\Desktop\OS assignment\OS_assignment3\code
+```
+
+### task 1:
+```bash
+python3 code1.py
+```
+
+### task 2:
+```bash
+python3 code2.py
+```
+### task 3:
+```bash
+python3 code3.py
+```
+### task 4:
+```bash
+python3 code4.py
+```
+### task 5:
+```bash
+python3 code5.py
+```
+***
+
+## ASSIGNMENT 4:
+
+# OS Assignment 4
+
+This contains four tasks. Follow the instructions below to run each task correctly.
+
+---
+
+## Task 1 — Batch Processing
+
+1. Navigate to the Task 1 directory:
+
+   ```bash
+   cd "C:\Users\YASH\Desktop\OS assignment\OS_assignment4\code\task1"
+   ```
+
+### now run:
+
+  ```bash
+    python3 task1.py
+  ```
+
+## Task 2 — CPU Scheduling
+
+2 navigate back to C:\Users\YASH\Desktop\OS assignment\OS_assignment4\code by running:
+
+   ```bash
+   cd ..
+   
+   ```
+
+now run:
+
+  ```bash
+   python3 task2.py
+
+   ```
+
+## Task 3
+
+1 now run:
+
+   ```bash
+   python3 task3.py
+   ```
+
+## Task 4
+
+### it wont run in any open source compiler so run it in ubuntu by running given command:
+
+   ```bash
+    cd /mnt/c/Users/YASH/Desktop/OS assignment/OS_assignment4/code
+    python3 task4.py
+
+   ```
+
+
+
 ## Notes
 
 - Both scripts are cross-platform compatible.

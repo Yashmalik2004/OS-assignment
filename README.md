@@ -17,6 +17,19 @@
 - ┗ 📜README.md (this file)
 
 ---
+=======
+>>>>>>> 91cd939 (Updated project structure and added new folders)
+## Repository Structure
+📦OS assignment
+┣ 📂OS_assignment1
+┃ ┣ 📜process_management.py
+┃ ┗ 📜output.txt
+┣ 📂OS_assignment2
+┃ ┣ 📜system_startup.py
+┃ ┣ 📜process_log.txt
+┗ 📜README.md (this file)
+
+---
 
 ## Setup Instructions
 
